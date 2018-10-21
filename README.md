@@ -24,12 +24,12 @@ To obtain a responsible and challenging position as a Software QA Engineer in a 
 - US Green Card Holder.
  
 ## Technical Skills:
-**Platforms**: 		Windows, MacOS, Unix/Linux, Android OS, iOS
-**Test automation**: 		Selenium WebDriver with Java
-**Programming**: 		SQL, HTML, JavaScript, CSS, XML
-**Version control systems**: 	BitBucket, Git		
-**Testing Tools**: 		JMeter, Android Studio, AVD, ADB
-**Bug Tracking Tools**: 	Bugzilla, Jira, TestRail		
+- **Platforms**: 		Windows, MacOS, Unix/Linux, Android OS, iOS
+- **Test automation**: 		Selenium WebDriver with Java
+- **Programming**: 		SQL, HTML, JavaScript, CSS, XML
+- **Version control systems**: 	BitBucket, Git		
+- **Testing Tools**: 		JMeter, Android Studio, AVD, ADB
+- **Bug Tracking Tools**: 	Bugzilla, Jira, TestRail		
 
 ## Career Track:
 ### Phrame Inc., San Jose, CA                               				  
