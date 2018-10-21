@@ -1,5 +1,4 @@
 ## Maria Karapetova
-
 Newark, CA 94560
 
 karapetova.m@gmail.com
