@@ -75,7 +75,7 @@ Legal Counsel
 - Represented company in business transactions, negotiations. 
 
 ### Automotive website:  www.dailycars.ru, Moscow, Russia
-Car Testdrive Pilot/Writer
+Car Test driver/Writer
 #### 2005 - 2009
 - Test-driving various automobiles for the purpose of writing reviews for specialized magazines
 - Accredited correspondent at local and international Motor Shows.
