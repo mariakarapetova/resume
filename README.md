@@ -35,7 +35,7 @@ To obtain a responsible and challenging position as a Software QA Engineer in a 
 ## Career Track:
 ### Phrame Inc., San Jose, CA                               				  
 Software and Firmware QA Engineer
-#### May 2018 - Present
+#### May 2018 - December 2018
 - Testing mobile (iOS only) app with GPS, maps, bluetooth and other technologies.
 - Involved in system level testing with mobile devices, apps, firmware
 - Design a functional and smoke check lists for firmware testing.
