@@ -8,11 +8,11 @@ To obtain a responsible and challenging position as a Software QA Engineer in a 
 
 ## Career Summary:
 - 2 + years of experience in Software testing with exposure to the full development cycle from requirements.
-- Experienced in SDLC methodologies (Agile, Scrum and Waterfall)
+- Experience in SDLC methodologies (Agile, Scrum and Waterfall)
 - Expertise in performing different kinds of testing Functional, GUI, Backend, Regression, UAT.
 - Create test documentation using BRD, PRD, developer specifications, product design documents and similar benchmark products
 - Excellent in developing test plans, test strategy, test cases, test data, test checklists, defect tracking & reporting, preparing test summary report, and conducting status meetings.
-- Extensive experience in automation testing using Selenium WebDriver with Java.
+- Experience in automation testing using Selenium WebDriver with Java.
 - Write and executed SQL queries to validate and verify dataset.
 - Experience in Mobile Testing on iOS and Android platforms. 
 - Strong experience in Cross browser, Cross platform Web testing.
@@ -60,7 +60,7 @@ Software Test Engineer
 - Created, tracked bug reports in Bugzilla.
 - Review Web-based application and identify critical functionality.
 - Performed data driven testing for multiple sets of data using JMeter and Selenium WebDriver with Java.
-- Performed back-end testing by writing and executing SQL queries to validate the data from Oracle.
+- Wrote and executed SQL queries. 
 - Tested application on different Mobile environments - Android, iOS.
 - Used Android Studio, AVD, ADB shell.
 - Analyzed requirements, development documentation.
